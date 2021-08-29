@@ -13,6 +13,7 @@
   <link rel="stylesheet" href="templates/AdminLTE-3.1.0/plugins/icheck-bootstrap/icheck-bootstrap.min.css">
   <!-- Estilo do template Admin LTDE -->
   <link rel="stylesheet" href="templates/AdminLTE-3.1.0/dist/css/adminlte.min.css">
+  <link rel="stylesheet" href="selfcss.css">
   <title>Autenticação</title>
 </head>
 
@@ -21,7 +22,7 @@
     <!-- /.login-logo -->
     <div class="card card-outline card-primary">
       <div class="card-header text-center">
-        <a href="../../index2.html" class="h1"><b>Admin</b>LTE</a>
+        <a href="../../index2.html" class="h1"><b>TURMA</b>ADS</a>
       </div>
       <div class="card-body">
       <div class="callout callout-warning">
@@ -50,16 +51,16 @@
           <div class="row">
             <!-- /.col -->
             <div class="col-12">
-              <button type="submit" class="btn btn-primary btn-block">Sign In</button>
+              <button type="submit" class="btn btn-primary btn-block">Entrar</button>
             </div>
             <!-- /.col -->
           </div>
         </form>
-        <p class="mb-2">
-          <a href="register.html" class="text-center">Criar um novo usuário</a>
+        <p class="mt-2">
+        <a href="cadastro.php" class="btn btn-success col-12">Cadastre-se!</a>
         </p>
         <p class="mb-0">
-          <a href="register.html" class="text-center">Esqueci a Senha</a>
+          <a href="register.html" class="text-center" class="esqsenha">Esqueci minha Senha</a>
         </p>
       </div>
       <!-- /.card-body -->

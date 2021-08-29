@@ -1,0 +1,8 @@
+body {
+    background-image: linear-gradient(to bottom, rgb(57, 126, 204),rgb(123, 171, 224));
+    font-family: Arial, Helvetica, sans-serif;
+    
+  }
+  div.login-box {
+    box-shadow: 2px 2px 10px 1px rgba(0, 0, 0, 0.315);
+  }
